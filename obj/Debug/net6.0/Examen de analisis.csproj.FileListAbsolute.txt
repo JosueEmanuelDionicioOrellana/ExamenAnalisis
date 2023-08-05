@@ -1,0 +1,5 @@
+C:\Users\emanu\Desktop\Examen de analisis\obj\Debug\net6.0\Examen de analisis.csproj.AssemblyReference.cache
+C:\Users\emanu\Desktop\Examen de analisis\obj\Debug\net6.0\Examen de analisis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\Desktop\Examen de analisis\obj\Debug\net6.0\Examen de analisis.AssemblyInfoInputs.cache
+C:\Users\emanu\Desktop\Examen de analisis\obj\Debug\net6.0\Examen de analisis.AssemblyInfo.cs
+C:\Users\emanu\Desktop\Examen de analisis\obj\Debug\net6.0\Examen de analisis.csproj.CoreCompileInputs.cache
